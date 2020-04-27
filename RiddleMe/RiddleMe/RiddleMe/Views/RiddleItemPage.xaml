@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="RiddleMe.Views.RiddleItemPage"
+             Title="{Binding Name}">
+    <ContentPage.Content>
+      <StackLayout>
+          <Label Text="Welcome to the Riddle corner, let's hear yours!" />
+            <Label Text="" />
+            <Image Source="bestimg.jpg"
+                Aspect="AspectFill"
+                Margin="-10"
+                HeightRequest="100"
+                WidthRequest="100" />
+            <Label Text="Name" />
+
+            <Entry Text="{Binding Name}" 
+                   Placeholder="Enter Yo Riddle name"/>
+
+            <Label Text="Notes" />
+
+            <Entry Text="{Binding Notes}" />
+
+            <!--<Label Text="Done" />-->
+
+            <!--<Switch IsToggled="{Binding Done}" />-->
+
+            <Button Text="Save" BackgroundColor="#6C3483" Clicked="OnSaveClicked" />
+
+            <Button Text="Delete" BackgroundColor="#5b2c6f" Clicked="OnDeleteClicked" />
+
+            <Button Text="Cancel" BackgroundColor="#922b21" Clicked="OnCancelClicked" />
+        </StackLayout>
+  </ContentPage.Content>
+</ContentPage>

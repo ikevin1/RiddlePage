@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "TKjkvQ78kyWMoNxBl3AvvrtE9zvnb5e+ysBLOmezyUplkaQLnRWi8259X/klRMsMBhgFcSO6I1M2qOpeubEmUg==",
+  "success": true,
+  "projectFilePath": "E:\\Mobile Dev App\\Unit 11\\Assignment 11\\RiddleMe\\RiddleMe\\RiddleMe\\RiddleMe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ik\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
+    "C:\\Users\\ik\\.nuget\\packages\\sqlite-net-pcl\\1.6.292\\sqlite-net-pcl.1.6.292.nupkg.sha512",
+    "C:\\Users\\ik\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.13\\sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
+    "C:\\Users\\ik\\.nuget\\packages\\sqlitepclraw.core\\1.1.13\\sqlitepclraw.core.1.1.13.nupkg.sha512",
+    "C:\\Users\\ik\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ik\\.nuget\\packages\\xamarin.essentials\\1.5.3.1\\xamarin.essentials.1.5.3.1.nupkg.sha512",
+    "C:\\Users\\ik\\.nuget\\packages\\xamarin.forms\\4.5.0.657\\xamarin.forms.4.5.0.657.nupkg.sha512"
+  ],
+  "logs": []
+}
