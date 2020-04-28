@@ -58,7 +58,7 @@ namespace RiddleMe.Data
 
         }
 
-
+      
 
         public Task<List<RiddleItem>> GetItemsAsync()
 
@@ -122,6 +122,17 @@ namespace RiddleMe.Data
 
         }
 
+        //public Task<RiddleItem> PreviewItemAsync(RiddleItem riddleItem)
+
+        //{
+
+        //    return Database.GetAsync(riddleItem);
+
+        //}
+        //internal Task PreviewItemAsync(RiddleItem riddleItem)
+        //{
+        //    throw new NotImplementedException();
+        //}
     }
 
 }

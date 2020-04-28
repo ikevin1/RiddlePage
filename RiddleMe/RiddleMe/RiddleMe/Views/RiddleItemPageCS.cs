@@ -15,14 +15,12 @@ namespace RiddleMe.Views
 
             Title = "Riddle Item";
 
-
-
+            
             var nameEntry = new Entry();
 
             nameEntry.SetBinding(Entry.TextProperty, "Name");
 
-
-
+            
             var notesEntry = new Entry();
 
             notesEntry.SetBinding(Entry.TextProperty, "Notes");
@@ -98,10 +96,10 @@ namespace RiddleMe.Views
                     new Label { Text = "Notes" },
 
                     notesEntry,
+                   
+            //new Label { Text = "Done" },
 
-                    //new Label { Text = "Done" },
-
-                    //doneSwitch,
+            //doneSwitch,
 
                     saveButton,
 

@@ -35,7 +35,7 @@
 
                             <Label Text="{Binding Name}" VerticalTextAlignment="Center" HorizontalOptions="StartAndExpand" />
 
-                            <Image Source="check.png" HorizontalOptions="End" IsVisible="{Binding Done}" />
+                            <Image Source="check.png" HorizontalOptions="End"/>
 
                         </StackLayout>
 

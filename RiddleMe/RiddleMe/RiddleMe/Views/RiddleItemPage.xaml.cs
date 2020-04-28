@@ -44,7 +44,17 @@ namespace RiddleMe.Views
 
         }
 
+        //async void OnPreviewClicked(object sender, EventArgs e)
 
+        //{
+
+        //    var riddleItem = (RiddleItem)BindingContext;
+
+        //    await App.Database.PreviewItemAsync(riddleItem);
+
+        //    await Navigation.PopAsync();
+
+        //}
 
         async void OnCancelClicked(object sender, EventArgs e)
 

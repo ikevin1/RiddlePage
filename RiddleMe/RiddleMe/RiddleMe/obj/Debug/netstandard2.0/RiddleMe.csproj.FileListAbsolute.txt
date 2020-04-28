@@ -1,6 +1,5 @@
 E:\Mobile Dev App\Unit 11\Assignment 11\RiddleMe\RiddleMe\RiddleMe\bin\Debug\netstandard2.0\RiddleMe.deps.json
 E:\Mobile Dev App\Unit 11\Assignment 11\RiddleMe\RiddleMe\RiddleMe\bin\Debug\netstandard2.0\RiddleMe.dll
-E:\Mobile Dev App\Unit 11\Assignment 11\RiddleMe\RiddleMe\RiddleMe\obj\Debug\netstandard2.0\RiddleMe.csprojAssemblyReference.cache
 E:\Mobile Dev App\Unit 11\Assignment 11\RiddleMe\RiddleMe\RiddleMe\obj\Debug\netstandard2.0\App.xaml.g.cs
 E:\Mobile Dev App\Unit 11\Assignment 11\RiddleMe\RiddleMe\RiddleMe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 E:\Mobile Dev App\Unit 11\Assignment 11\RiddleMe\RiddleMe\RiddleMe\obj\Debug\netstandard2.0\Views\RiddleItemPage.xaml.g.cs
@@ -14,3 +13,4 @@ E:\Mobile Dev App\Unit 11\Assignment 11\RiddleMe\RiddleMe\RiddleMe\obj\Debug\net
 E:\Mobile Dev App\Unit 11\Assignment 11\RiddleMe\RiddleMe\RiddleMe\obj\Debug\netstandard2.0\RiddleMe.dll
 E:\Mobile Dev App\Unit 11\Assignment 11\RiddleMe\RiddleMe\RiddleMe\obj\Debug\netstandard2.0\ref\RiddleMe.dll
 E:\Mobile Dev App\Unit 11\Assignment 11\RiddleMe\RiddleMe\RiddleMe\obj\Debug\netstandard2.0\RiddleMe.pdb
+E:\Mobile Dev App\Unit 11\Assignment 11\RiddleMe\RiddleMe\RiddleMe\obj\Debug\netstandard2.0\RiddleMe.csprojAssemblyReference.cache

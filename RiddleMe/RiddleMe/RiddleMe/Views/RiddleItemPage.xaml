@@ -6,7 +6,9 @@
              mc:Ignorable="d"
              x:Class="RiddleMe.Views.RiddleItemPage"
              Title="{Binding Name}">
+    
     <ContentPage.Content>
+        
       <StackLayout>
           <Label Text="Welcome to the Riddle corner, let's hear yours!" />
             <Label Text="" />
@@ -15,24 +17,26 @@
                 Margin="-10"
                 HeightRequest="100"
                 WidthRequest="100" />
-            <Label Text="Name" />
+            <Label Text="Name"/>
 
-            <Entry Text="{Binding Name}" 
-                   Placeholder="Enter Yo Riddle name"/>
+            <Entry Text="{Binding Name}" Placeholder="Enter Yo Riddle name" PlaceholderColor="Gray"/>
 
             <Label Text="Notes" />
 
-            <Entry Text="{Binding Notes}" />
+            <Entry Text="{Binding Notes}" Placeholder="Riddle mee" PlaceholderColor="Gray"/>
 
-            <!--<Label Text="Done" />-->
+            <!--<Label Text="Done" />
 
-            <!--<Switch IsToggled="{Binding Done}" />-->
+            <Switch IsToggled="{Binding Done}" />-->
 
             <Button Text="Save" BackgroundColor="#6C3483" Clicked="OnSaveClicked" />
 
-            <Button Text="Delete" BackgroundColor="#5b2c6f" Clicked="OnDeleteClicked" />
+            <Button Text="Delete" BackgroundColor="#922b21" Clicked="OnDeleteClicked" />
 
-            <Button Text="Cancel" BackgroundColor="#922b21" Clicked="OnCancelClicked" />
+            <!--<Button Text="Preview" BackgroundColor="#6C3483" Clicked="OnPreviewClicked" />-->
+
+            <Button Text="Cancel" BackgroundColor="#3D3C52" Clicked="OnCancelClicked" />
         </StackLayout>
+        
   </ContentPage.Content>
 </ContentPage>
